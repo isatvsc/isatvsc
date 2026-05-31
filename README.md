@@ -2,7 +2,7 @@
 
 ### Estudante de Redes de Computadores | Desenvolvedora em formação
 
-Sou estudante do 3º ano do curso técnico em Redes de Computadores na EEEP Rita Aguiar Barbosa, em Itapipoca - CE.
+Sou estudante do 3º ano do curso técnico em Redes de Computadores na EEEP Rita Aguiar Barbosa, em Itapipoca - CE e pretendo seguir na área cursando Análise e Desenvolvimento de sistemas.
 
 Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente estou construindo minha base em programação enquanto desenvolvo projetos e exploro novas ferramentas para transformar ideias em soluções.
 
