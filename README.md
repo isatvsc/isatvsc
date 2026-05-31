@@ -36,13 +36,6 @@ Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente est
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isatvsc\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isatvsc\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 ## Projeto em Destaque
 
