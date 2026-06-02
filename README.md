@@ -50,13 +50,14 @@ Projeto de startup em desenvolvimento que busca conectar clientes e profissionai
 
 ## Objetivos
 
-Atualmente estou focada em:
+Atualmente, meu foco é desenvolver competências sólidas em programação e tecnologia, buscando:
 
-* Aprimorar minhas habilidades em programação
-* Aprender desenvolvimento Full Stack
-* Construir projetos reais para meu portfólio
-* Explorar áreas como automação, web e inovação tecnológica
-
+* Aprimorar meus conhecimentos em desenvolvimento de software
+* Evoluir para o desenvolvimento Full Stack utilizando tecnologias modernas
+* Criar projetos práticos que gerem impacto real e fortaleçam meu portfólio
+* Explorar áreas como automação, inteligência artificial e desenvolvimento web
+* Participar de iniciativas e experiências que contribuam para meu crescimento profissional
+* Construir uma carreira na área de tecnologia com foco em inovação e solução de problemas
 ---
 
 ## Contato
