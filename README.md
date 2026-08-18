@@ -26,7 +26,7 @@ Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente est
 ### Estudando atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
   <img src="https://skillicons.dev/icons?i=python,javascript,git,mysql,vscode" />
 </p>
 
