@@ -13,7 +13,6 @@ Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente est
 * Estudante de Redes de Computadores
 * Certificado em Auxiliar Administrativo pela OCTA Treinamentos
 * Aprendendo Python e JavaScript
-* Estudando AI Java pelo DIO
 * Interessada em React e Node.js
 * Apaixonada por desenvolvimento web e automação
 * Desenvolvendo o projeto **TudoPronto**
