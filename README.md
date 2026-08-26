@@ -12,8 +12,7 @@ Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente est
 
 * Estudante de Redes de Computadores
 * Certificado em Auxiliar Administrativo pela OCTA Treinamentos
-* Aprendendo Python e JavaScript
-* Interessada em React e Node.js
+* Aprendendo Desenvolvimento Web
 * Apaixonada por desenvolvimento web e automação
 * Desenvolvendo o projeto **TudoPronto**
 
@@ -27,7 +26,7 @@ Tenho interesse em desenvolvimento web, automação e tecnologia. Atualmente est
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,git,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,git,mysql," />
 </p>
 
 ### Quero aprender
