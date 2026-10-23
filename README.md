@@ -1,9 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:484848&height=180&section=header&text=Isabelly%20Teixeira%20Vasconcelos&fontSize=30&fontColor=ffffff&fontAlignY=40&desc=Redes%20de%20Computadores%20%7C%20Desenvolvedora%20Web%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=13)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Aprendendo%2C+evoluindo+e+construindo.;Desenvolvimento+web+e+programa%C3%A7%C3%A3o.;Transformando+ideias+em+projetos.)](https://git.io/typing-svg)
-
+ <div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00A6FF&center=true&vCenter=true&width=800&height=100&lines=Ol%C3%A1%2C+eu+sou+a+Isabelly;Desenvolvedora+Web+em+forma%C3%A7%C3%A3o;Construindo+ideias+com+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o" alt="Animação de texto da Isabelly" />
+  <br>
 </div>
 
 ---
@@ -24,11 +22,6 @@ Busco evoluir continuamente por meio de estudos e projetos práticos, construind
   <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS e JavaScript" />
 </p>
 
-### Estudando atualmente
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python e MySQL" />
-</p>
 
 ### Quero aprender
 
