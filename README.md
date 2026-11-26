@@ -1,6 +1,8 @@
  <div align="center">
   <br>
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=443534263315702820" height="287" width="345" frameborder="0" scrolling="no" ></iframe>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=91A9C8&center=true&vCenter=true&width=750&height=60&lines=while(!understood)+%7B+keepLearning();+%7D;console.log(%22it+works...+don't+touch+it%22);error+404%3A+bug+not+found;git+commit+-m+%22one+more+attempt%22;debugging+reality.exe" />
+</p>
   <br>
 </div>
 
