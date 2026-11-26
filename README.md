@@ -1,6 +1,6 @@
  <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00A6FF&center=true&vCenter=true&width=800&height=100&lines=Ol%C3%A1%2C+eu+sou+a+Isabelly;Desenvolvedora+Web+em+forma%C3%A7%C3%A3o;Construindo+ideias+com+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o" alt="Animação de texto da Isabelly" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=443534263315702820" height="287" width="345" frameborder="0" scrolling="no" ></iframe>
   <br>
 </div>
 
@@ -19,14 +19,15 @@ Busco evoluir continuamente por meio de estudos e projetos práticos, construind
 ### Utilizando em projetos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,vuejs" alt="HTML, CSS e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,vue,nuxt" alt="HTML, CSS, JavaScript, C#, Vue.js e Nuxt.js" /></p>
 </p>
 
 
 ### Quero aprender
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,vue,nuxt" alt="HTML, CSS, JavaScript, C#, Vue.js e Nuxt.js" /></p>
+
+<img src="https://skillicons.dev/icons?i=cs,react,nodejs,typescript,docker" alt="C#, React, Node.js, TypeScript e Docker" />
 
 ### Ferramentas de desenvolvimento
 
