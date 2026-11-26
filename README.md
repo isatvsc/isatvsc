@@ -19,15 +19,14 @@ Busco evoluir continuamente por meio de estudos e projetos práticos, construind
 ### Utilizando em projetos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,vuejs" alt="HTML, CSS e JavaScript" />
 </p>
 
 
 ### Quero aprender
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,react,nodejs,typescript,docker" alt="C#, React, Node.js, TypeScript e Docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,vue,nuxt" alt="HTML, CSS, JavaScript, C#, Vue.js e Nuxt.js" /></p>
 
 ### Ferramentas de desenvolvimento
 
